@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+
+  <head>
+
+
+    <meta charset="UTF-8" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <link rel="stylesheet" href="main.css" />
+
+
+    <title>My Portfolio</title>
+
+
+  </head>
+
+
+  <body>
+
+
+    <header>
+
+
+      <h1>akshat rana</h1>
+
+
+      <p>Web Developer | Full Stack Developer</p>
+
+
+    </header>
+
+
+
+
+
+    <section id="about">
+
+
+      <img src="https://avatars.githubusercontent.com/u/149301368?s=400&u=680e6cca3ed3fcfb66a2812d9f6bd24787408227&v=4" alt="akshat rana" />
+
+
+    </section>
+
+
+
+
+
+    <section id="about1">
+
+
+      <h2>
+
+
+        I'm a passionate web developer and designer with a keen eye for detail.
+
+
+      </h2>
+
+
+    </section>
+
+
+
+
+
+    <section id="projects">
+
+
+      <h2>Projects</h2>
+
+
+      <div class="project">
+
+
+        <img src="landing.png" alt="Project 1" width="550" />
+
+
+        <h3>Project 1</h3>
+
+
+        <p>Designed and coded a responsive website for a local business.</p>
+
+
+      </div>
+
+
+      <div class="project">
+
+
+        <img src="calc.png" alt="Project 2" width="550" />
+
+
+        <h3>Project 2</h3>
+
+
+        <p>
+
+
+          Developed a JavaScript-based interactive calculator.
+
+
+        </p>
+
+
+      </div>
+
+
+    </section>
+
+
+    <section id="resume">
+
+
+      <h2>Resume</h2>
+
+
+      <p><a href="resume.pdf" download> Download Resume (PDF)</a></p>
+
+
+    </section>
+
+
+    <section id="contact">
+
+
+      <h2>Contact</h2>
+
+
+      <p>Email: akshatrana782.com</p>
+
+
+      <p>Phone: 9319702061</p>
+
+
+    </section>
+
+
+    <footer>
+
+
+      <p>&copy; 2023 akshat rana. All rights reserved.</p>
+
+
+    </footer>
+
+
+  </body>
+
+
+</html>
